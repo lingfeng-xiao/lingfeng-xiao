@@ -1,9 +1,21 @@
-# Hi, I'm Xiao Lingfeng
+<p align="center">
+  <img src="assets/header.png" width="100%" alt="Xiao Lingfeng — Java backend engineer exploring AI agents. Born in 1999." />
+</p>
 
-I'm a Java backend engineer with experience building business applications using Spring Boot, SQL, Redis, and RocketMQ.
+### Behind the glasses
 
-- My work includes transaction management, data consistency, and reliable backend processing.
-- I'm exploring AI Agent Engineering and how to bring AI capabilities into Java applications.
-- I'm learning about Spring AI Alibaba and exploring opportunities to contribute to the open-source project.
+I'm Lingfeng, a Java backend engineer born in 1999.
+Most of my work is in business systems: keeping transactions sound, data consistent, and messages reliable.
 
-I value clear code, practical solutions, and dependable systems.
+**My everyday tools**  
+Java · Spring Boot · SQL · Redis · RocketMQ
+
+### On my desk
+
+I'm exploring **AI Agent Engineering** from a Java developer's perspective: how models use tools, how workflows fit together, and what happens when things fail.
+
+I'm also getting to know [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba), looking for a useful place to make my first contribution.
+
+---
+
+<sub>A little tired. Still curious.</sub>
