@@ -5,3 +5,6 @@
 I was told this was the world's largest gay dating site.
 
 Here to meet good people and find a job. Hoping for a good match on both fronts.
+
+Also available for small backend fixes and data automation projects.
+[Work with me](docs/work-with-me.md) · [Try a CSV reconciliation tool](work-samples/csv-reconcile/README.md)
